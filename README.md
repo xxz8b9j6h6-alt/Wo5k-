@@ -12,7 +12,7 @@
 </head>
 <body>
     <h1>ب خێرهاتی بۆ مینی ئەپێ پۆلا ١٢</h1>
-    <a href="https://t.me/your_channel" class="btn">پەرتووک و مەلزەمەین PDF</a>
-    <a href="https://t.me/your_channel" class="btn">پسیارێن ویزاری</a>
+    <a href="https://t.me/wo5k_bot" class="btn">پەرتووک و مەلزەمەین PDF</a>
+    <a href="https://t.me/wo5k/class="btn">پسیارێن ویزاری</a>
 </body>
 </html>
